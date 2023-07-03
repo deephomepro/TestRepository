@@ -6,6 +6,7 @@ public class TestNGaFresh {
 	@Test
 	public void a() {
 		System.out.println("Hello-TestNGaFresh");
+		System.out.println("Hello-TestNG2Refresh");
 	}
 
 
